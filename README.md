@@ -11,14 +11,18 @@ Gmail
 แล้วเปิด cmd
 
 1.Git Clone
+
 git clone https://github.com/NSTIOM/Gmil-python.git
 
 
 2.Install requirement
+
 pip install -r requirements.txt
 
 on Mac:
+
 python3 main.py
 
 on Windows:
+
 python main.py
