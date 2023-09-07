@@ -9,8 +9,11 @@ Gmail
 ช่องสองใส่ นามสกุล
 จากนั้นออกจากโฟเดอร์ data
 แล้วเปิด cmd
+
 1.Git Clone
 git clone https://github.com/NSTIOM/Gmil-python.git
+
+
 2.Install requirement
 pip install -r requirements.txt
 
